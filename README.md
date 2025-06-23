@@ -46,7 +46,7 @@ The goal is to support evidence-based insights that can inform policy, developme
 # Tools Used
   Microsoft SQL Server (T-SQL queries)
   
-  Power BI / Excel (optional visualizations)
+  Power BI / Excel (visualizations)
   
-  Python (optional) for deeper exploration or plotting
+  Python (for further research)
 
