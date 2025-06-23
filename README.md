@@ -1,9 +1,7 @@
-# World-Economic-Indicators-SQL
-
 # Global Development Indicators: SQL Case Study (2019–2021)
 
 # Overview
-This repository presents a comprehensive analysis of global development indicators using publicly available datasets from the World Bank and UN Human Development Index (HDI) reports. The study focuses on identifying trends, disparities, and key development challenges across countries and regions between 2019 and 2021. Using SQL as the primary tool, the project answers a range of analytical questions related to economic growth, health outcomes, internet access, environmental sustainability, and composite development metrics.
+This repository presents a comprehensive analysis of global development indicators using publicly available [datasets](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&page=2&pageSize=5) from the World Bank and UN Human Development Index (HDI) reports. The study focuses on identifying trends, disparities, and key development challenges across countries and regions between 2019 and 2021. Using SQL as the primary tool, the project answers a range of analytical questions related to economic growth, health outcomes, internet access, environmental sustainability, and composite development metrics.
 
 The goal is to support evidence-based insights that can inform policy, development strategy, and future forecasting.
 
